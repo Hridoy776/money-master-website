@@ -1,6 +1,5 @@
 // common function
 function buttons(calculateButton){
-    
     //  condition for get into calculate button interactive
       if(calculateButton == 'calculate' ){
         const income = document.getElementById("input-field").value;
@@ -41,8 +40,7 @@ function buttons(calculateButton){
     //   error massage alert
       else{
           alert('you can not save grater than your balance')
-      }
-      
+      }   
 }
 }
 // add event in calculate button
