@@ -15,12 +15,6 @@ label {
     margin-top: 1em;
 
   }
-  .validation{
-      
-      display: none;
-      border: 2px solid crimson;
-      padding: 10px;
-      border-radius: 10px;
-      font-size: 1.2em;
-      color: blue;
+  .card2{
+      background-color: rgb(183, 183, 185);
   }
